@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#584646</color>
+    <color name="colorPrimaryDark">#ffff</color>
+    <color name="colorAccent">#6B04FFC4</color>
+    <color name="Black">#0C0C0C</color>
+
+    <color name="colorBackground">#A399BBB4</color>
+    <color name="colorWhite">#FAF3F3</color>
+    <color name="textbox">#F8B5B5</color>
+    <color name="searchbar">#FCFF8C40</color>
+</resources>
+

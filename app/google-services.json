@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681017388265",
+    "firebase_url": "https://easyhome-cf76b.firebaseio.com",
+    "project_id": "easyhome-cf76b",
+    "storage_bucket": "easyhome-cf76b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681017388265:android:5cfc7f4f121c08c1419478",
+        "android_client_info": {
+          "package_name": "com.example.easyhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681017388265-ut6bck6mk47icnuacpoc86558q8polrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easyhome",
+            "certificate_hash": "da393c7a1149d713e3c08c25dc321f9cd14915bd"
+          }
+        },
+        {
+          "client_id": "681017388265-hg9902kll9sqmstvtki6v1qd0fh39fi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMmvyPvrkUgyk8z-tbqS2vqf5XwD3eD1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681017388265-hg9902kll9sqmstvtki6v1qd0fh39fi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
